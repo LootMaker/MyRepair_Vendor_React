@@ -24,7 +24,7 @@
   "dependencies": {
     "animate.css": "3.5.2",
     "animo": "github:thrivingkings/animo.js",
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "blueimp-canvas-to-blob": "3.11.0",
     "blueimp-file-upload": "9.18.0",
     "blueimp-load-image": "2.14.0",
